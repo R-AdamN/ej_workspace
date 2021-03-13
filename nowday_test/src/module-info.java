@@ -1,0 +1,2 @@
+module nowday_test {
+}
